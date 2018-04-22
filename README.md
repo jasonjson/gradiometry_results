@@ -5,9 +5,9 @@ This repository contains wave gradiometry results for 2000 USArray TA stations f
 Each directory contains results for periods ranging from 20 s to 150 s. The directory name denotes the orignial time of the event, and more detailes can be found from the events_catalog file.
 
 Within each result file:
-the 1st column represents the longtidue,
-the 2nd column represents the latitude, 
-the 3rd column represents Ax, 
+* the 1st column represents the longtidue,
+* the 2nd column represents the latitude, 
+* the 3rd column represents Ax, 
 the 4th column represents Ay, 
 the 5th column represents Bx, the sixth column represents By, 
 the 7th column represents the dynamic velociy, 
