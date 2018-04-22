@@ -8,10 +8,10 @@ Within each result file:
 * the 1st column represents the longtidue,
 * the 2nd column represents the latitude, 
 * the 3rd column represents Ax, 
-the 4th column represents Ay, 
-the 5th column represents Bx, the sixth column represents By, 
-the 7th column represents the dynamic velociy, 
-the 8th column represents the structural velocity, 
-the 9th column represents the azimuth variation, 
-the 10th column represents the radiation pattern,
-the 11th column represents the geometrical spreading.
+* the 4th column represents Ay, 
+* the 5th column represents Bx, the sixth column represents By, 
+* the 7th column represents the dynamic velociy, 
+* the 8th column represents the structural velocity, 
+* the 9th column represents the azimuth variation, 
+* the 10th column represents the radiation pattern,
+* the 11th column represents the geometrical spreading.
